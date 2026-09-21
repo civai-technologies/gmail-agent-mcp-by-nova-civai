@@ -1,0 +1,21 @@
+{
+  "slug": "gmail-agent",
+  "repo": "gmail-agent-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/gmail-agent-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "gmail",
+    "email",
+    "google-mail",
+    "productivity"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/gmail-agent"
+}
