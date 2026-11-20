@@ -1,7 +1,7 @@
 {
   "name": "gmail-agent-by-nova",
   "version": "1.0.0",
-  "description": "I do everything related to Gmail and productivity",
+  "description": "Read recent Gmail messages, open a single email, and compose and send replies.",
   "author": {
     "name": "CIVAI TECHNOLOGIES",
     "email": "nifemialpine@nova.civai.co"
